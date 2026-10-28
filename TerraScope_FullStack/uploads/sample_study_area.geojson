@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "name": "terrascope_sample_study_area",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sample Study Area",
+        "note": "Illustrative test boundary only; not an official administrative boundary."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.82,
+              18.48
+            ],
+            [
+              73.9,
+              18.48
+            ],
+            [
+              73.9,
+              18.54
+            ],
+            [
+              73.82,
+              18.54
+            ],
+            [
+              73.82,
+              18.48
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
